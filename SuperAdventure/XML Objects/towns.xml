@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTown xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Town>
+    <startdescription>
+      <string>You start out in the cozy town of Bree.</string>
+      <string>The perfect place to look for new adventures!</string>
+    </startdescription>
+    <menudescription>
+      <string>~As you walk down the street of Bree,</string>
+      <string>you can hear townsfolk chatting all around you~</string>
+    </menudescription>
+    <name>Bree</name>
+    <id>1</id>
+  </Town>
+  <Town>
+    <startdescription>
+      <string>"Ah, the beautiful city of Minas Tirith!</string>
+      <string>A sanctuary in the bewildered land of Gondor."</string>
+    </startdescription>
+    <menudescription>
+      <string>~The sight of white almost blinds your eyes</string>
+      <string>as you walk around in the extraordinary Minas Tirith~</string>
+    </menudescription>
+    <name>Minas Tirith</name>
+    <id>2</id>
+  </Town>
+</ArrayOfTown>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hero>
+    <firstname>Peter</firstname>
+    <title>the Peasant</title>
+    <town>
+      <startdescription>
+        <string>You start out in the cozy town of Bree.</string>
+        <string>The perfect place to look for new adventures!</string>
+      </startdescription>
+      <menudescription>
+        <string>~As you walk down the street of Bree,</string>
+        <string>you can hear townsfolk chatting all around you~</string>
+      </menudescription>
+      <name>Bree</name>
+      <id>1</id>
+    </town>
+    <mindamage>1</mindamage>
+    <maxdamage>3</maxdamage>
+    <currenthealth>20</currenthealth>
+    <maxhealth>20</maxhealth>
+    <coins>0</coins>
+    <ID>3</ID>
+  </Hero>
+</ArrayOfHero>

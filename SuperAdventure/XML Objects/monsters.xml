@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMonster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Monster xsi:type="Skeleton">
+    <id>1</id>
+    <name>Skeleton</name>
+    <maxhealth>10</maxhealth>
+    <currenthealth>10</currenthealth>
+    <mindamage>1</mindamage>
+    <maxdamage>2</maxdamage>
+  </Monster>
+  <Monster xsi:type="Orc">
+    <id>2</id>
+    <name>Orc</name>
+    <maxhealth>15</maxhealth>
+    <currenthealth>12</currenthealth>
+    <mindamage>1</mindamage>
+    <maxdamage>3</maxdamage>
+  </Monster>
+</ArrayOfMonster>
